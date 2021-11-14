@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
     printf("Nhap mot so nguyen duong bat ki: ");
     scanf("%d", &num);
 
-    printf("Cac so nguyen to nho hon hoac bang %d: ", num);
+    printf("Cac so nguyen to nho hon hoac bang %d:\t", num);
 
     for (int i = 2; i <= num; i++)
     {
